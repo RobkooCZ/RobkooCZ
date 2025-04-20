@@ -1,5 +1,8 @@
 # i'm Robkoo
 
+![Robkoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robkoocz&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robkoocz&layout=compact&theme=dark&hide_border=true)
+
 > - Prestigeous student of **SPŠE**  
 > - Low-level fan (**C supremacy**)  
 > - PHP doesn't suck!
